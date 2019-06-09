@@ -1,0 +1,30 @@
+{
+    "title": "GitBook",
+    "author": "song_jx",
+    "description": "学习笔记",
+    "language": "zh-hans",
+    "plugins": [
+        "code",
+        "todo",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "github",
+        "tbfed-pagefooter",
+        "flexible-alerts",
+        "accordion",
+        "simple-page-toc",
+        "ancre-navigation",
+        "chapter-fold"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/songjunxia70223/"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy song_jx 2019",
+            "modify_label": "修订时间:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
