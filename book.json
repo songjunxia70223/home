@@ -15,7 +15,8 @@
         "accordion",
         "simple-page-toc",
         "ancre-navigation",
-        "chapter-fold"
+        "chapter-fold",
+        "hide-element"
     ],
     "pluginsConfig": {
         "github": {
@@ -25,6 +26,9 @@
             "copyright": "Copyright &copy song_jx 2019",
             "modify_label": "修订时间:",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
     }
 }
