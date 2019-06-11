@@ -15,7 +15,7 @@
         "accordion",
         "simple-page-toc",
         "ancre-navigation",
-        "chapter-fold",
+        "expandable-chapters-small",
         "hide-element"
     ],
     "pluginsConfig": {
