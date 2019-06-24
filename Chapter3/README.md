@@ -1,2 +1,2 @@
-# Servlet
+# JavaEE
 
