@@ -41,7 +41,7 @@
 
 
 
-%accordion%2019/6/12%accordion%
+%accordion%2019/6/13%accordion%
 
 > [!NOTE]
 >
@@ -52,3 +52,24 @@
 
 
 
+
+
+%accordion%2019/6/27%accordion%
+
+> [!NOTE]
+>
+> 1. [JDBC基本使用](Chapter3/database/3.1.1.md)
+
+%/accordion%
+
+
+
+
+
+%accordion%2019/6/27%accordion%
+
+> [!NOTE]
+>
+> 1. [Mybatis基本使用](Chapter3/database/3.1.2.md)
+
+%/accordion%
