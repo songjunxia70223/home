@@ -25,5 +25,5 @@
         * [Mybatis](Chapter3/database/3.1.1.md)
             * [Jdbc/Java Database Connection](Chapter3/database/3.1.1.md)
             * [MyBatis基本使用](Chapter3/database/3.1.2.md)
-            * [Mybatis增删改](Chapter3/database/3.1.3.md)
+            * [Spring-Mybatis](Chapter3/database/3.1.3.md)
 
