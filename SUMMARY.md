@@ -22,8 +22,9 @@
     * [Spring Bean装配](Chapter2/2.2.md)
 * [JavaEE](Chapter3/README.md)
     * [数据库](Chapter3/database/3.1.1.md)
-        * [Mybatis](Chapter3/database/3.1.1.md)
-            * [Jdbc/Java Database Connection](Chapter3/database/3.1.1.md)
-            * [MyBatis基本使用](Chapter3/database/3.1.2.md)
-            * [Spring-Mybatis](Chapter3/database/3.1.3.md)
+        * [JDBC/Java Database Connection](Chapter3/database/3.1.1.md)
+            * [基本使用](Chapter3/database/3.1.1.md)
+        * [Mybatis](Chapter3/database/3.2.1.md)
+            * [MyBatis基本使用](Chapter3/database/3.2.1.md)
+            * [Spring-Mybatis](Chapter3/database/3.2.2.md)
 
