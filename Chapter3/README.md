@@ -1,5 +1,7 @@
 # JavaEE
 
+## JavaEE规范
+
 JavaEE好像是有13种规范.其中包括
 
 1. JDBC/Java Database Connectivity Java数据库连接
@@ -18,4 +20,8 @@ JavaEE好像是有13种规范.其中包括
 
 需要什么学什么就可以了...慢慢的就会都知道的...
 
-不过好像好多已经没什么用了,被别的东西代替了...所以也不是都要看的23333
+不过好像好多已经没什么用了,被别的东西代替了...所以也不是都要看的2333
+
+## 实例代码
+
+1. [数据库](https://github.com/songjunxia70223/JavaEE/tree/master/mybatis)

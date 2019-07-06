@@ -25,6 +25,7 @@
         * [JDBC/Java Database Connection](Chapter3/database/3.1.1.md)
             * [基本使用](Chapter3/database/3.1.1.md)
         * [Mybatis](Chapter3/database/3.2.1.md)
-            * [MyBatis基本使用](Chapter3/database/3.2.1.md)
+            * [Mybatis基本使用](Chapter3/database/3.2.1.md)
             * [Spring-Mybatis](Chapter3/database/3.2.2.md)
+            * [Mybatis缓存](Chapter3/database/3.2.3.md)
 
